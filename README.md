@@ -5,6 +5,18 @@
 
 ![主界面](docs/screenshot.png)
 
+## 下载
+
+不想自己编译就用现成的：到 [Releases](https://github.com/2085163451/da-feiyu-launcher/releases/latest) 下载 `DaFeiYuLauncher-v1.0.0.exe`，Windows 10/11 双击即用，不需要装 .NET。
+
+只想看源码：点页面右上角 **Code → Download ZIP**，或者
+
+```powershell
+git clone https://github.com/2085163451/da-feiyu-launcher.git
+```
+
+再按下面「编译」一节自己编译。
+
 ## 特性
 
 - **一个 exe，双击即用**：C# WinForms，编译成单文件，只依赖 Windows 自带的 .NET Framework 4.x，不需要装运行时。
