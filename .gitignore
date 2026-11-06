@@ -1,0 +1,23 @@
+# 编译产物
+*.exe
+*.pdb
+*.dll
+bin/
+obj/
+dist/
+
+# 本地配置（里面是各人自己的安装路径，不要提交）
+config.ini
+
+# 运行日志（可能有 QQ 号和聊天片段）
+logs/
+*.log
+
+# 编辑器 / 系统
+.vs/
+.idea/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
+*.tmp
